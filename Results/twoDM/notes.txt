@@ -1,0 +1,18 @@
+Things to Notice:
+
+Many plots have lines that are pretty much on top of each other.
+
+For Coannihilation:
+-Coannihilation does indeed change the values for Y (m_DM = 150), its just very small
+-In Co1, the reason the red goes under the equilibrium value has to do with how Y1*Y2-Y1eq*Y2eq behaves
+ since the radiation essentially cancels.
+-In Co4, all the lines are on top of each other, as expected.
+-In Co5, all the lines are decreasing.
+
+For annihilation DM2 + DM2 -> DM1 + DM1
+-Keep in mind that there is an assumption in the formula that the matrix element for the reverse process
+ is the same.
+-Again, the 150 does change, just not noticibly.
+-In Ann4, we expect the freezeout to be independent of this coupling, and we indeed get that.
+-We expect Ann5 and Ann6 to be exactly identical except with the blue and red reversed, and this is what we see.
+ In this plot, both lines are coming closer to each other in both cases.

@@ -4,7 +4,3 @@ This program calculates the relic density for a model with an arbitrary number o
 
 The inputs are the thermally averaged cross sections, either explicitely for each temperature, or using
 a partial wave approximation.
-# freezeout
-# freezeout
-# freezeout
-# freezeout

@@ -1,0 +1,33 @@
+##Use wave approximation to sigmav##
+0
+
+##Number Of Dark Matter Fields##
+5
+
+##Masses Of Dark Matter Fields##
+100 100 100 100 100
+
+##n_particle - n_antiparticle, positive if more, negative if less##
+0 0 0 0 0
+
+##Path to sigmav file##
+C:/Users/AlexandrePoulin/Documents/relic/freezeout_v2.5/inputFiles/mathematicaOut13.txt
+
+##Step Size for Numerical Procedure##
+0.000002
+0.0001
+
+##smallest possible starting value for x##
+30
+
+##Use Pre Calculated values for Yeq##
+0
+
+##Use RK4##
+0
+
+##g factors##
+1 1 6 3 6
+
+##Use W instead of Y##
+0

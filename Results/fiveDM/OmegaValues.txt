@@ -1,0 +1,141 @@
+All DM have a mass of 100GeV and the following
+sigvijkl[0][0][5][5]=0.01
+sigvijkl[1][1][5][5]=0.1
+sigvijkl[2][2][5][5]=1.0
+sigvijkl[3][3][5][5]=10.0
+sigvijkl[4][4][5][5]=100.0
+
+0 -> Red
+1 -> Orange
+2 -> Green
+3 -> Blue
+4 -> Purple
+5 -> SM (not shown)
+----------------------------------------
+----------------------------------------
+base.pdf:
+
+Omega 0 = 6.65431
+Omega 1 = 0.757246
+Omega 2 = 0.0850562
+Omega 3 = 0.00945338
+Omega 4 = 0.00104154
+
+----------------------------------------
+change01.pdf
+
+added sigvijkl[1][2][5][5]=0.1
+
+Omega 0 = 6.65431
+Omega 1 = 0.709569
+Omega 2 = 0.0587983
+Omega 3 = 0.00945338
+Omega 4 = 0.00104154
+
+----------------------------------------
+change1.pdf
+
+added sigvijkl[1][2][5][5]=1.0
+
+Omega 0 = 6.65431
+Omega 1 = 0.550736
+Omega 2 = 0.00254403
+Omega 3 = 0.00945338
+Omega 4 = 0.00104154
+
+----------------------------------------
+change10.pdf
+
+added sigvijkl[1][2][5][5]=10.0
+
+Omega 0 = 6.65431
+Omega 1 = 0.196291
+Omega 2 = 1.3436e-06
+Omega 3 = 0.00945338
+Omega 4 = 0.00104154
+
+----------------------------------------
+changeNotSM10.pdf
+
+added sigvijkl[1][2][3][3]=10.0
+
+Omega 0 = 6.65464
+Omega 1 = 0.346487
+Omega 2 = 0.000414562
+Omega 3 = 0.0141376
+Omega 4 = 0.00104158
+
+----------------------------------------
+changeNotSM10_no1.pdf
+
+removed sigvijkl[1][1][5][5]=0.1
+added sigvijkl[1][2][3][3]=10.0
+
+Omega 0 = 6.65464
+Omega 1 = 0.806089
+Omega 2 = 6.65466e-05
+Omega 3 = 0.0120947
+Omega 4 = 0.00104158
+
+
+----------------------------------------
+changeNotSM10_no2.pdf
+
+removed sigvijkl[2][2][5][5]=1.0
+added sigvijkl[1][2][3][3]=10.0
+
+Omega 0 = 6.65464
+Omega 1 = 0.000106012
+Omega 2 = 0.678732
+Omega 3 = 0.0127566
+Omega 4 = 0.00104158
+----------------------------------------
+change1123_10.pdf
+
+added sigvijkl[1][1][2][3]=10.0
+
+Omega 0 = 6.65464
+Omega 1 = 0.0447089
+Omega 2 = 0.108128
+Omega 3 = 0.0215087
+Omega 4 = 0.00104158
+
+----------------------------------------
+change1122_1.pdf
+
+added sigvijkl[1][1][2][2]=1.0
+
+Omega 0 = 6.65458
+Omega 1 = 0.186258
+Omega 2 = 0.164083
+Omega 3 = 0.00945371
+Omega 4 = 0.00104157
+
+----------------------------------------
+change_belowEq_2.pdf
+
+added sigvijkl[1][3][5][5]=2.0
+added sigvijkl[2][3][5][5]=10.0
+
+Omega 0 = 6.65458
+Omega 1 = 0.629704
+Omega 2 = 0.0820629
+Omega 3 = 4.19492e-10
+Omega 4 = 0.00104157
+
+----------------------------------------
+change_belowEq_5.pdf
+
+added sigvijkl[1][3][5][5]=5.0
+added sigvijkl[2][3][5][5]=10.0
+
+Omega 0 = 6.65458
+Omega 1 = 0.570818
+Omega 2 = 0.0838246
+Omega 3 = 7.49996e-15
+Omega 4 = 0.00104157
+
+
+
+
+
